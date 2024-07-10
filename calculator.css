@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: black
+}
+.head{
+    color: white;
+}
+.row{
+    
+}
+.btn{
+    background-color: #424040;
+    color: white;
+    padding: 1vh 1vh;
+    font-size: 2rem;
+    margin: 1.2rem 0.3rem;
+    width: 3rem;
+    border-radius: 20%;
+}
+.input{
+    font-size: 1.15rem;
+    border-radius: 10%;
+}
+.Fun{
+    background-color: #e2ae11;
+}
+.Fun2{
+    background-color: gray;
+}
